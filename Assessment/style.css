@@ -1,0 +1,91 @@
+
+#parent
+{
+  width: 70%;
+  height: 600px;
+  margin: auto;
+  margin-top: 2%;
+  padding: 1%;
+  background-color: skyblue;
+}
+.box1
+{
+    width: 94%;
+    height: auto;
+    margin: auto;
+    
+}
+
+.box2
+{
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    margin-top: 2%;
+    padding: 2%;
+    background-color: white;
+    display: flex;
+    flex-direction: left;
+
+}
+
+.box5
+{
+    width: 30% ;
+    height: 100px;
+    margin: auto;
+    margin-top: 2%;
+    margin-left: 7%;
+    
+}
+.box7
+{
+    width: 10% ;
+    height: 100px;
+    margin: auto;
+    margin-top: 2%;
+    margin-left: 10%;
+    font-size: 30px;
+    
+}
+.box3
+{
+    width: 90%;
+    height: 290px;
+    margin: auto;
+    margin-top: 3%;
+    padding: 2%;
+    background-color: white;
+    display: flex;
+    flex-direction: left;
+
+}
+.box4
+{
+    width: 50% ;
+    height: 290px;
+    margin: auto;
+    margin-left: 7%;
+}
+
+.fa-facebook,.fa-linkedin
+        {  
+            color: blue;
+            font-size: 45px;
+            letter-spacing: 2px;
+            margin-left: 3%;
+        }
+        .fa-twitter
+        {   
+            font-size: 45px;
+            letter-spacing: 2px;
+            color: aqua;
+            margin-left: 4%;
+        }
+        .fa-github
+        {   
+            font-size: 45px;
+            letter-spacing: 2px;
+            color: black;
+            margin-left: 4%;
+        }
